@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c30bd4d1-bfff-46f4-b130-cb7a68b1c35a" name="Changes" comment="Primer programa de practica en java." />
+    <list default="true" id="c30bd4d1-bfff-46f4-b130-cb7a68b1c35a" name="Changes" comment="Código limpio y comentado." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nibalmorales/practica01.git",
+    "accountId": "f23cd2dd-121b-456f-8126-41af3339a25d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -47,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780086062473</updated>
-      <workItem from="1780086064334" duration="1017000" />
+      <workItem from="1780086064334" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="Primer programa de practica en java.">
       <option name="closed" value="true" />
@@ -73,7 +79,39 @@
       <option name="project" value="LOCAL" />
       <updated>1780087087571</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Primer programa de practica en java.">
+      <option name="closed" value="true" />
+      <created>1780087132852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780087132852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Código limpio y comentado.">
+      <option name="closed" value="true" />
+      <created>1780087233243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780087233243</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Código limpio y comentado.">
+      <option name="closed" value="true" />
+      <created>1780087241864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780087241864</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Código limpio y comentado.">
+      <option name="closed" value="true" />
+      <created>1780087380672</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780087380672</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer programa de practica en java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer programa de practica en java." />
+    <MESSAGE value="Código limpio y comentado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Código limpio y comentado." />
   </component>
 </project>
